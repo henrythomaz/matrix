@@ -1,3 +1,3 @@
 # Matrix
 
-![Texto Alternativo](imagens/imagem.png)
+![Texto Alternativo](images/imagem.png)
